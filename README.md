@@ -1,4 +1,4 @@
-# Simple Voxelizer
+# STLSimple Voxelizer
 
 Voxelizer for stl file.
 
