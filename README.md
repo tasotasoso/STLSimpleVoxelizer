@@ -9,7 +9,7 @@ pip install -r requirements.txt
 </pre>
 
 ## Usage
-Simplly notification to your slack webhook app:
+Voxelize,
 <pre>
 python voxelize.py path_of_stlfile pitch process_num
 </pre>
